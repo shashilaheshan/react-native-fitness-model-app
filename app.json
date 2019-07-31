@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "GoFit",
+    "name": "Fit App",
     "description": "This project is really great.",
     "slug": "gofit",
     "privacy": "public",
@@ -29,10 +29,10 @@
       "supportsTablet": true
     },
     "ios": {
-      "bundleIdentifier": "com.wicombit.gofit"
+      "bundleIdentifier": "com.heshan.fitapp"
     },
     "android": {
-      "package": "com.wicombit.gofit",
+      "package": "com.heshan.fitapp",
       "versionCode": 2,
 
     }
