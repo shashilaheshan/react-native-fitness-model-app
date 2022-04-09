@@ -5,7 +5,7 @@
     "antd-mobile": "^2.1.8",
     "expo": "^27.0.1",
     "firebase": "^4.13.1",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "native-base": "^2.4.3",
     "react": "16.3.1",
     "react-dom": "^16.3.2",
